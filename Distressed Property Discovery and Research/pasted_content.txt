@@ -1,0 +1,67 @@
+You are a Technical Program Manager and Operational Architect. 
+You already produced the "Distressed Property Lead Generation Product Design" document. 
+Now expand this into a **Detailed Product Creation Operational Guide** that can be handed to a dev + growth team. 
+
+Goal: Provide step-by-step operational instructions to build, launch, and market the distressed property discovery SaaS using Replit (for app), n8n (for orchestration), Instantly.ai + Apollo.io (for outbound sales/marketing). 
+The guide must be actionable, detailed, and execution-ready.
+
+Deliverables:
+
+1. **Development Environment & Stack Setup**
+   - Step-by-step guide for setting up Replit project (frontend + backend).
+   - Recommended frameworks, libraries, and authentication method (basic membership/subscription service).
+   - Integration plan with database (Google Sheets for MVP, Postgres for scale).
+   - Git/branch workflow and CI/CD strategy for Replit.
+
+2. **n8n Workflow Operationalization**
+   - Practical instructions for deploying n8n (local vs cloud).
+   - Node-by-node guide for connecting scrapers, AFSA API, council notices, realestate portals.
+   - Error handling, retries, and logging setup.
+   - Data pipeline ops: storage, scoring, notifications.
+   - Scheduling & monitoring workflows.
+
+3. **Membership & SaaS Service Layer**
+   - Operational steps to implement login/signup on Replit.
+   - Stripe/PayPal integration for subscriptions.
+   - Role-based access: Free vs Premium tiers.
+   - Data access limits per user type (e.g., daily lead quota).
+
+4. **Outbound Sales & Marketing Ops**
+   - Detailed workflow for using Apollo.io to build target lists (property investors, real estate agencies, buyers’ agents).
+   - Guide for importing those lists into Instantly.ai.
+   - Cold outreach playbook: email templates, sequencing, and personalization.
+   - Operational metrics: response rate, booked calls, conversion.
+
+5. **Growth & Customer Operations**
+   - How to set up weekly PDF digest automation inside n8n for subscribers.
+   - Steps for managing CRM data flow between Apollo.io, Instantly.ai, and app database.
+   - Retention operations: churn prevention, renewal workflows.
+
+6. **Compliance & Risk Ops**
+   - Operational checks before launch: Privacy Act compliance, scraping ToS checks, disclaimers.
+   - Where and how to display disclaimers in the app (Replit UI).
+   - Data retention policy: how long to keep scraped leads.
+
+7. **Execution Timeline**
+   - Convert the high-level 7-day sprint + 30-day roadmap from the Product Design into a concrete **operational Gantt-style plan**.
+   - Day-by-day tasks for first 2 weeks.
+   - Weekly deliverables for first 60 days.
+
+8. **Deliverable Format**
+   - Output as structured sections with checklists, step-by-step SOPs, and ready-to-assign tasks.
+   - Include sample configs (Replit setup snippet, n8n JSON skeleton, Instantly.ai campaign flow).
+   - Include "Who does this" role tags: [Dev], [Ops], [Growth], [Founder].
+
+Constraints:
+- Prioritize speed-to-market and low-cost setup (MVP-first).
+- Make it executable by a small team (1–2 developers, 1 marketing resource).
+- Avoid theory; focus on clear, actionable, and reproducible instructions.
+
+Output format: 
+- 1) Development Ops 
+- 2) Workflow Ops 
+- 3) Membership Ops 
+- 4) Sales Ops 
+- 5) Growth Ops 
+- 6) Compliance Ops 
+- 7) Execution Timeline
