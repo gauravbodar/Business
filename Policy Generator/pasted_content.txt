@@ -1,0 +1,69 @@
+You are a Technical Program Manager and Solution Delivery Expert. 
+You previously created a high-level solution architecture for the "Policy Genesis Suite" SaaS product, which automates compliance policy generation, tender auto-writing, and client compliance dashboards. 
+Now expand this into a **Technical Implementation & Go-To-Market Operational Document** that can be handed to a small dev + growth team.
+
+Goal: Deliver a step-by-step, execution-ready technical plan to build, launch, and start monetizing the product. 
+The prototype is already live at: https://preview--policy-genesis-suite.lovable.app/
+
+Deliverables:
+
+1. **Development & Infrastructure Setup**
+   - Step-by-step instructions for setting up the backend (API orchestration, AI model integration, database design for policies/tenders/compliance dashboards).
+   - Frontend setup (React/Lovable.dev → Replit or Vercel for hosting).
+   - Authentication and membership management (Stripe/PayPal).
+   - Recommended stack and deployment strategy (MVP speed > heavy infra).
+
+2. **Core Feature Implementation**
+   - Policy Generation Engine: how to structure prompts, store outputs, and provide export options (Word, PDF).
+   - Tender Auto-Writing: workflow for gathering tender requirements, generating draft responses, and enabling user edits.
+   - Compliance Dashboard: data model + UI to track compliance status, upload evidence, and map against frameworks.
+   - Technical details: API endpoints, n8n workflows (if applicable), storage schema.
+
+3. **Workflow Orchestration (n8n or equivalent)**
+   - Where to use n8n for automation: 
+     - Generating and storing policy drafts
+     - Sending alerts/emails when tenders are updated
+     - Compliance dashboard reminders
+   - Node-by-node operational design (trigger, AI call, data cleaner, storage, notifications).
+
+4. **Membership & SaaS Layer**
+   - Technical guide for subscription plans: Free tier (basic policy templates), Paid tier (AI-driven custom policies + tender writing), Enterprise (compliance dashboards).
+   - Rate limits / quotas by tier.
+   - Integration with Stripe + webhook handling in backend.
+
+5. **Sales & Marketing Integration**
+   - Operational playbook for Instantly.ai + Apollo.io campaigns.
+   - Target customer personas: SMEs applying for government tenders, compliance-heavy industries, consultants.
+   - Campaign workflow: Apollo.io → Instantly.ai → CRM/lead tracker → booked demo.
+   - Email template examples (policy automation, tender support, compliance insights).
+   - How to integrate lead capture into the app (landing page → free trial → nurture campaign).
+
+6. **Compliance & Risk**
+   - Operational compliance: handling of client data (Privacy Act 1988, ISO 27001 basics).
+   - Clear disclaimers: "AI-generated policies require legal review".
+   - Data retention and audit logging for generated documents.
+
+7. **Execution Timeline**
+   - Convert architecture → execution plan.
+   - 7-day sprint plan to get MVP policy generator live with payments enabled.
+   - 30-day roadmap: tender-writing feature.
+   - 90-day roadmap: compliance dashboard + enterprise pilot.
+
+8. **Deliverable Format**
+   - Output as structured sections with checklists and SOPs.
+   - Include example API routes, n8n JSON skeletons, and DB schema outlines.
+   - Role tags for each step: [Dev], [Ops], [Growth], [Founder].
+
+Constraints:
+- Prioritize rapid MVP delivery.
+- Keep infra cost low (serverless functions, free-tier DB, SaaS integrations).
+- Make it executable by a 2–3 person team.
+
+Output Format: 
+- 1) Dev & Infra Ops 
+- 2) Core Feature Implementation 
+- 3) Workflow Ops 
+- 4) Membership SaaS Ops 
+- 5) Sales Ops 
+- 6) Compliance Ops 
+- 7) Execution Timeline
