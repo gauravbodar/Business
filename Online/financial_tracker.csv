@@ -1,0 +1,7 @@
+Date,Income Source,Category,Description,Income (AUD),Expenses (AUD),Net (AUD),Running Total (AUD)
+YYYY-MM-DD,Etsy,Digital Product,Map Design 1 Sale,20.00,0.00,20.00,20.00
+YYYY-MM-DD,Etsy,Platform Fee,Listing & Transaction Fees,0.00,2.50,-2.50,17.50
+YYYY-MM-DD,TikTok,Affiliate,Product 1 Commission,15.00,0.00,15.00,32.50
+YYYY-MM-DD,Drone,Service Fee,Real Estate Shoot,300.00,0.00,300.00,332.50
+YYYY-MM-DD,Drone,Equipment,Extra Battery Purchase,0.00,120.00,-120.00,212.50
+YYYY-MM-DD,Drone,Travel,Client Location Travel Expenses,0.00,25.00,-25.00,187.50

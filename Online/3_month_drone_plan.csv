@@ -1,0 +1,36 @@
+Month,Week,Task Title,Detailed Task Description,Estimated Hours,Priority,Tools Required,Output/Deliverable,Acceptance Criteria,Role,Blockers,Track
+
+
+1,1,CASA Drone Registration,Register all drones (even sub-2kg) with CASA for commercial use.,2.0,High,Web Browser (myCASA portal),CASA Registration Confirmation,Drone(s) registered,Son,None,Drone
+1,1,CASA Operator Accreditation,Complete online course and pass test for 'excluded category' operations (sub-2kg drones).,4.0,High,Web Browser (CASA website),Operator Accreditation Certificate,Accreditation obtained,Son,None,Drone
+1,1,Drone Equipment Acquisition (Starter),Purchase DJI Mini series drone and essential starter accessories (extra batteries, ND filters, microSD, carrying case).,3.0,High,Online Retailers (D1 Store, JB Hi-Fi),Receipts, all items received,Starter drone kit acquired,Son,Budget,Drone
+1,1,Basic Flight Practice (Controlled Environment),Practice basic flight maneuvers (take-off, landing, hovering, forward/backward/sideways flight) in a safe, open area.,5.0,High,DJI Mini drone,Flight logs, ability to control drone smoothly,Son,None,Drone
+
+
+1,2,Advanced Flight Practice (Maneuvers),Practice more complex maneuvers: orbits, fly-throughs, tracking shots. Focus on smooth camera movements.,6.0,High,DJI Mini drone,Flight logs, smooth footage captured,Son,None,Drone
+1,2,Drone Settings & Camera Fundamentals,Learn drone camera settings (ISO, shutter speed, aperture, white balance) and their impact on video quality.,3.0,Medium,Drone manual, online tutorials,Notes on camera settings, ability to adjust settings for different conditions,Son,None,Drone
+1,3,Basic Drone Videography Techniques,Practice cinematic shots: reveal shots, establishing shots, tracking shots. Focus on composition and storytelling.,6.0,High,DJI Mini drone,Sample video clips demonstrating techniques,Son,None,Drone
+1,3,Drone Footage Editing (Basic),Import drone footage, perform basic cuts, color correction, and add music. Use existing video editing software.,4.0,High,Video Editing Software,1-2 minute edited drone video,Son,None,Drone
+1,4,CASA Rules Review & Local Airspace Check,Thoroughly review CASA standard operating conditions. Use a CASA-verified app to check local airspace for practice locations.,3.0,High,CASA website, CASA-verified app,Notes on local airspace, safe flight plan for practice,Son,None,Drone
+1,4,Drone Portfolio Building (Initial),Capture and edit 2-3 short, high-quality drone videos for an initial portfolio. Focus on diverse subjects (e.g., landscape, architecture).,8.0,High,DJI Mini drone, Video Editing Software,2-3 edited drone videos,Son,None,Drone
+
+
+2,5,Public Liability Insurance Acquisition,Obtain comprehensive public liability insurance for commercial drone operations.,3.0,High,Insurance Brokers,Insurance Policy Document,Policy acquired,Son,Budget,Drone
+2,5,Business Registration & ABN (if not already done),Register business name and obtain Australian Business Number (ABN) if operating as a sole trader.,2.0,High,ABR website,ABN confirmation,Business registered,Son,None,Business
+2,6,Service Offering Definition & Pricing,Define specific drone videography services (e.g., real estate, events, landscape) and establish competitive pricing.,4.0,High,Market research, competitor analysis,Service list & pricing sheet,Clear service offerings,Son,None,Business
+2,6,Website/Portfolio Page Creation,Create a simple website or dedicated portfolio page showcasing drone videography work and contact information.,5.0,High,Website Builder (e.g., Squarespace, Wix),Live portfolio website,Son,None,Marketing
+2,7,Marketing Material Creation,Design business cards, flyers, and social media templates for drone services.,4.0,Medium,Design Software,Marketing materials,Son,None,Marketing
+2,7,Local Networking (Initial),Attend local business events, real estate open houses, or community gatherings to introduce drone services.,6.0,Medium,Networking events,List of contacts,Son,None,Marketing
+2,8,Client Outreach (Targeted),Identify potential clients (real estate agents, event planners, small businesses) and send personalized outreach emails/messages.,5.0,High,Email, CRM (optional),List of contacted clients,Son,None,Marketing
+2,8,Contract & Invoice Templates,Create professional contract and invoice templates for drone services.,3.0,High,Text Editor,Contract & Invoice templates,Son,None,Business
+
+
+3,9,Advanced Drone Equipment Research (Pro Tier),Research specific models (e.g., DJI Mavic 3/Air 3) and accessories for potential upgrade, based on initial client feedback and earnings.,4.0,Medium,Web Browser,Comparison spreadsheet of pro-tier drones,Son,None,Drone
+3,9,Client Project Execution (1st Project),Execute first paid drone videography project. Focus on clear communication, professional delivery, and client satisfaction.,10.0,High,Drone, Video Editing Software,Completed project, positive client feedback,Son,None,Business
+3,10,Post-Project Review & Feedback,Review first project with client, gather feedback, and identify areas for improvement.,2.0,High,Client communication,Client feedback summary,Son,None,Business
+3,10,Marketing & Testimonials,Request testimonials from satisfied clients. Update portfolio with new project work.,4.0,High,Website, social media,Testimonials, updated portfolio,Son,None,Marketing
+3,11,Financial Review & Reinvestment Planning,Review drone service income and expenses. Plan for reinvestment into pro-tier equipment or further training.,5.0,High,Spreadsheet,Financial report, reinvestment plan,Son,None,Business
+3,11,Continuous Skill Development (RePL/ReOC Consideration),Based on business growth and project complexity, research requirements and costs for Remote Pilot Licence (RePL) or RPA Operator’s Certificate (ReOC).,3.0,Medium,CASA website, training providers,Notes on RePL/ReOC requirements,Son,None,Drone
+3,12,Ongoing Client Acquisition,Continue targeted outreach and networking efforts to secure new projects.,8.0,High,Email, CRM (optional),New client leads,Son,None,Marketing
+3,12,Monthly Performance Review,Comprehensive review of drone service performance for the month. Plan key objectives and tasks for the next month.,4.0,High,Spreadsheet,Monthly performance report & next month's plan,Son,None,Business
+

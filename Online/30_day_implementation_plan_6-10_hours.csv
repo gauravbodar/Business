@@ -1,0 +1,76 @@
+Day,Task Title,Detailed Task Description,Estimated Hours,Priority,Tools Required,Output/Deliverable,Acceptance Criteria,Role,Blockers,Track
+
+
+1,Market Research & Niche Selection (Etsy),Conduct in-depth research on Etsy for map art niches, identifying popular styles, unmet demands, and potential unique selling propositions. Analyze top-selling shops and their strategies.,3.0,High,Web Browser,Spreadsheet with 10 niche ideas & competitor analysis,Son,None,Etsy
+1,TikTok Account Setup & Niche Definition,Create TikTok business account, optimize profile (bio, profile picture, link in bio), and define content niche based on affiliate product categories.,2.0,High,TikTok App,Optimized TikTok profile,Son,None,TikTok
+1,Etsy Shop Setup (Basic),Register Etsy shop, choose shop name, set up shop sections, and basic policies (digital product focus).,2.0,High,Etsy,Live Etsy shop with basic setup,Son,None,Etsy
+1,TikTok Content Strategy & Research,Research trending sounds, popular video formats, and affiliate products within chosen niche. Brainstorm 20-25 video ideas.,2.0,High,TikTok App,Spreadsheet with 25 video ideas, trending sounds, and formats,Son,None,TikTok
+
+
+2,Etsy Product Design (Maps 1-3),Design three digital map products based on niche research. Focus on high-quality vector graphics and export settings.,4.0,High,Design Software (e.g., Adobe Illustrator),Three digital map design files,Son,None,Etsy
+2,TikTok Video Scripting (Videos 1-5),Write scripts/captions for 5 TikTok videos, incorporating hooks, CTAs, and relevant hashtags for affiliate products.,3.0,High,Text Editor,5 TikTok video scripts,Son,None,TikTok
+3,Etsy Product Mockups (Maps 1-3),Create 5 high-quality mockups for each of the first three map designs.,4.0,High,Design Software (e.g., Photoshop),15 product mockups (JPEG/PNG),Son,None,Etsy
+3,TikTok Video Production (Videos 1-5),Film/edit 5 TikTok videos based on scripts. Focus on engaging visuals, trending sounds, and clear CTAs.,4.0,High,Video Editing Software (e.g., CapCut),5 edited TikTok videos (9:16),Son,None,TikTok
+4,Etsy Listing Creation (Maps 1-3),Create three Etsy listings: upload design files, mockups, write titles, descriptions, and add 13 tags. Set pricing.,4.0,High,Etsy,Three Etsy listings published,Son,None,Etsy
+4,TikTok Posting (Videos 1-5) & Analytics,Post 5 TikTok videos. Monitor initial engagement (views, likes, comments, shares).,2.0,High,TikTok App,Initial engagement data,Son,None,TikTok
+5,Etsy Product Design (Maps 4-6),Design three more digital map products. Focus on variety in style or location.,4.0,High,Design Software,Three digital map design files,Son,None,Etsy
+5,TikTok Video Scripting (Videos 6-10),Write scripts/captions for 5 more TikTok videos, experimenting with different hooks or product types.,3.0,High,Text Editor,5 TikTok video scripts,Son,None,TikTok
+
+
+6,Etsy Product Mockups (Maps 4-6),Create 5 mockups for each of the new map designs.,4.0,High,Design Software,15 product mockups,Son,None,Etsy
+6,TikTok Video Production (Videos 6-10),Film/edit 5 more TikTok videos.,4.0,High,Video Editing Software,5 edited TikTok videos,Son,None,TikTok
+7,Etsy Listing Creation (Maps 4-6),Create three more Etsy listings for the new map designs.,4.0,High,Etsy,Three Etsy listings published,Son,None,Etsy
+7,TikTok Posting (Videos 6-10) & Engagement,Post 5 TikTok videos. Engage with comments and analyze performance.,2.0,High,TikTok App,Engagement data,Son,None,TikTok
+8,Etsy Product Design (Maps 7-9),Design three more digital map products.,4.0,Medium,Design Software,Three digital map design files,Son,None,Etsy
+8,TikTok Video Scripting (Videos 11-15),Write scripts/captions for 5 more TikTok videos.,3.0,Medium,Text Editor,5 TikTok video scripts,Son,None,TikTok
+9,Etsy Product Mockups (Maps 7-9),Create 5 mockups for each of the new map designs.,4.0,Medium,Design Software,15 product mockups,Son,None,Etsy
+9,TikTok Video Production (Videos 11-15),Film/edit 5 more TikTok videos.,4.0,Medium,Video Editing Software,5 edited TikTok videos,Son,None,TikTok
+10,Etsy Listing Creation (Maps 7-9),Create three more Etsy listings for the new map designs.,4.0,Medium,Etsy,Three Etsy listings published,Son,None,Etsy
+10,TikTok Posting (Videos 11-15) & Optimization,Post 5 TikTok videos. Analyze which hooks/CTAs perform best.,2.0,Medium,TikTok App,Performance insights,Son,None,TikTok
+
+
+11,Etsy SEO Optimization,Review Etsy listings for SEO. Update titles, tags, and descriptions based on initial performance and keyword research.,4.0,Medium,Etsy,Optimized Etsy listings,Son,None,Etsy
+11,TikTok Content Calendar Planning,Plan content calendar for next 20 days (Videos 16-35), focusing on variety and trending topics.,3.0,Medium,Spreadsheet,20-day TikTok content calendar,Son,None,TikTok
+12,Etsy Shop Policies & FAQs,Refine shop policies (returns, privacy) and create a comprehensive FAQ section.,3.0,Low,Etsy,Updated shop policies and FAQs,Son,None,Etsy
+12,TikTok Affiliate Program Research & Application,Research and apply to relevant affiliate programs for chosen niche products. Aim for 3-5 programs.,4.0,Medium,Web Browser,List of applied affiliate programs,Son,None,TikTok
+13,Etsy Marketing & Promotion (Pinterest),Share Etsy listings on Pinterest. Create 10-15 new pins.,3.0,Low,Pinterest,10-15 Pinterest pins,Son,None,Etsy
+13,TikTok Engagement & Community Building,Actively engage with other creators and comments. Respond to DMs. Identify potential collaboration partners.,4.0,Medium,TikTok App,Increased engagement,Son,None,TikTok
+14,Etsy Product Design (Maps 10-12),Design three more digital map products, focusing on variety or trending themes.,4.0,Medium,Design Software,Three digital map design files,Son,None,Etsy
+14,TikTok Video Production (Videos 16-20),Film/edit 5 TikTok videos based on content calendar.,4.0,Medium,Video Editing Software,5 edited TikTok videos,Son,None,TikTok
+15,Etsy Product Mockups (Maps 10-12),Create 5 mockups for each of the new map designs.,4.0,Medium,Design Software,15 product mockups,Son,None,Etsy
+15,TikTok Posting (Videos 16-20) & Analytics,Post 5 TikTok videos. Analyze performance and adjust strategy.,2.0,Medium,TikTok App,Engagement data,Son,None,TikTok
+
+
+16,Etsy Listing Creation (Maps 10-12),Create three more Etsy listings for the new map designs.,4.0,Medium,Etsy,Three Etsy listings published,Son,None,Etsy
+16,TikTok Video Scripting (Videos 21-25),Write scripts/captions for 5 more TikTok videos, incorporating new affiliate products.,3.0,Medium,Text Editor,5 TikTok video scripts,Son,None,TikTok
+17,Etsy Product Design (Maps 13-15),Design three more digital map products, focusing on variety or trending themes.,4.0,Medium,Design Software,Three digital map design files,Son,None,Etsy
+17,TikTok Video Production (Videos 21-25),Film/edit 5 TikTok videos.,4.0,Medium,Video Editing Software,5 edited TikTok videos,Son,None,TikTok
+18,Etsy Product Mockups (Maps 13-15),Create 5 mockups for each of the new map designs.,4.0,Medium,Design Software,15 product mockups,Son,None,Etsy
+18,TikTok Posting (Videos 21-25) & Engagement,Post 5 TikTok videos. Engage with comments and DMs.,2.0,Medium,TikTok App,Increased engagement,Son,None,TikTok
+19,Etsy Listing Creation (Maps 13-15),Create three more Etsy listings for the new map designs.,4.0,Medium,Etsy,Three Etsy listings published,Son,None,Etsy
+19,TikTok Affiliate Product Research,Identify 3-5 new potential affiliate products to promote.,3.0,Medium,Web Browser,List of potential affiliate products,Son,None,TikTok
+20,Weekly Review & Planning,Review Etsy and TikTok performance for the week. Plan tasks for the next week.,4.0,High,Spreadsheet,Weekly performance report & next week's plan,Son,None,Both
+
+
+21,Etsy Shop Banner & Branding,Design and upload a cohesive shop banner and profile picture. Ensure consistent branding.,3.0,Low,Design Software,Updated Etsy shop branding,Son,None,Etsy
+21,TikTok Video Scripting (Videos 26-30),Write scripts/captions for 5 more TikTok videos, incorporating new affiliate products.,3.0,Medium,Text Editor,5 TikTok video scripts,Son,None,TikTok
+22,Etsy Customer Service Prep,Draft responses for common customer inquiries (e.g., download issues, custom requests).,2.0,Low,Text Editor,Customer service response templates,Son,None,Etsy
+22,TikTok Video Production (Videos 26-30),Film/edit 5 TikTok videos.,4.0,Medium,Video Editing Software,5 edited TikTok videos,Son,None,TikTok
+23,Etsy Marketing - Pinterest & Instagram,Create 10-15 Pinterest pins and 5-10 Instagram posts linking to Etsy listings.,3.0,Low,Pinterest, Instagram,10-15 Pinterest pins, 5-10 Instagram posts,Son,None,Etsy
+23,TikTok Posting (Videos 26-30) & Engagement,Post 5 TikTok videos. Engage with comments and DMs.,2.0,Medium,TikTok App,Increased engagement,Son,None,TikTok
+24,Etsy Product Design (Maps 16-18),Design three more digital map products.,4.0,Medium,Design Software,Three digital map design files,Son,None,Etsy
+24,TikTok Content Repurposing Plan,Plan how to repurpose existing TikTok content for other platforms (e.g., Instagram Reels, YouTube Shorts, YouTube long-form).,3.0,Medium,Text Editor,Content repurposing plan,Son,None,TikTok
+25,Etsy Product Mockups (Maps 16-18),Create 5 mockups for each of the new map designs.,4.0,Medium,Design Software,15 product mockups,Son,None,Etsy
+25,TikTok Affiliate Performance Review,Review affiliate link clicks and conversions. Identify best-performing products/videos. Adjust strategy.,3.0,Medium,Affiliate Dashboard,Affiliate performance report,Son,None,TikTok
+
+
+26,Etsy Listing Creation (Maps 16-18),Create three more Etsy listings for the new map designs.,4.0,Medium,Etsy,Three Etsy listings published,Son,None,Etsy
+26,TikTok Video Scripting (Videos 31-35),Write scripts/captions for 5 more TikTok videos.,3.0,Medium,Text Editor,5 TikTok video scripts,Son,None,TikTok
+27,Etsy Shop Analytics Review,Review Etsy shop analytics (views, favorites, conversion rate). Identify best-performing listings and areas for improvement.,3.0,Low,Etsy,Etsy analytics report,Son,None,Etsy
+27,TikTok Video Production (Videos 31-35),Film/edit 5 TikTok videos.,4.0,Medium,Video Editing Software,5 edited TikTok videos,Son,None,TikTok
+28,Etsy Customer Feedback Analysis,Review customer reviews and messages for product ideas or improvements. Implement changes based on feedback.,2.0,Low,Etsy,Customer feedback summary & action plan,Son,None,Etsy
+28,TikTok Posting (Videos 31-35) & Final Review,Post 5 TikTok videos. Conduct a final review of the 30-day performance.,2.0,High,TikTok App,30-day performance summary,Son,None,TikTok
+29,Etsy Marketing - Email List Setup & First Campaign,Set up an email list (e.g., Mailchimp free tier) and plan/execute first email campaign for subscribers.,3.0,Low,Mailchimp,Email list setup & first campaign sent,Son,None,Etsy
+29,TikTok Live Strategy & First Live Session,Brainstorm ideas for potential TikTok Live sessions. If ready, conduct first live session.,3.0,Low,TikTok App,TikTok Live ideas & (optional) first live session,Son,None,TikTok
+30,Monthly Performance Review & Next Month Planning,Comprehensive review of Etsy and TikTok performance for the month. Plan key objectives and tasks for the next 30 days.,4.0,High,Spreadsheet,Monthly performance report & next month's plan,Son,None,Both
+
