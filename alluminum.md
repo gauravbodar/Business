@@ -24,7 +24,8 @@
 **Company:** Sims Metal  
 **General:** 1800 727 276  
 **Sydney contact:** 02 8113 1600
-
+**Trade Manager Singapore** ujjal.nandi@simsmm.com
++65 8228 2698
 ### Sydney facilities to potentially visit
 - Alexandria — 72 Burrows Road, Alexandria NSW
 - Milperra — 43 Ashford Ave, Milperra NSW
