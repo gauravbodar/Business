@@ -22,6 +22,24 @@ The 4-Stage Execution Roadmap
 • Mechanism: Partner with an established wholesale trustee service provider to appoint your entity as a Corporate Authorised Representative (CAR).
 • Key Result: Legal clearance to operate an Unlisted Wholesale Unit Trust and accept Section 708 sophisticated investor capital.
 
+#Connect with VC
+1. Sapien Ventures Limited Partnership Fund No. 2
+
+• Why they fit: They explicitly target fintech, marketplaces, software, and AI. Their mandate covers everything from seed to late expansion, making them a perfect fit for a newly built, AI-driven investment platform.
+• Contact Key: Mr Victor Jiang (hello@sapiengroup.co).
+
+2. Achieve VCLP Fund Alpha
+
+• Why they fit: They focus on high-growth Australian tech companies that hold a competitive advantage. Their core targeted sectors explicitly include fintech and information technology.
+• Contact Key: Mr Eric Ip (eric.ip@achieve-vc.com.au).
+
+3. Additional VCLP Prospects
+
+• Melbar VCLP Fund 1: Focuses on pre-seed to late expansion software platforms (Contact: Mr Peter Gan, peter.gan@melbarfunds.com.au).
+• Salter Brothers Growth Fund, LP: Targets technology-enabled expansion capital in Australia (Contact: Emily Mohan, emily.mohan@salterbrothers.com.au).
+• WayFinder Searcher Growth Fund ILP: Backs innovative alternative and mid-market models (Contact: Mr Nima Sedaghat, nima@wayfindercapital.com.au).
+
+
 🚀 Stage 4: Wholesale Syndication & Scale (Months 6+)
 
 • Objective: Scale platform revenue to a $1M+ run rate by pooling capital for high-margin deals.
